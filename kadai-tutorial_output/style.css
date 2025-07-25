@@ -23,7 +23,7 @@ header {
 }
 
 #nav-pc ul {
-  display: flex;
+  display: flex; 
   padding-left: 0;
 }
 
